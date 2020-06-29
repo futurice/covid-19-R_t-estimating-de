@@ -1,0 +1,15 @@
+**/pandas/
+**/pytz/
+**/matplotlib/
+**/mpl_toolkits/
+**/cycler.py
+**/pylab.py
+**/pyparsing.py
+**/matplotlib-3.2.2-py3.7-nspkg.pth
+**/matplotlib.libs
+**/kiwisolver*
+
+**/*.zip
+
+.DS_Store
+.ipynb_checkpoints/
